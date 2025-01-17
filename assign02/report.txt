@@ -1,0 +1,72 @@
+Create a REPORT.txt file to answer the following questions:
+
+1. List all of the people that you have collaborated with on this assignment. For each person indicate the level of collaboration (small, medium, large). Also write a few sentences describing what was discussed. Indicate whether you were mainly giving help or receiving help.
+
+none
+
+2. Do you think everything you did is correct? .....
+
+errm the numbers I think might be a little of but I hope so
+
+3. If not, give a brief description of what is working and what progress was made on the part that is not working.
+
+well it compiles and gives numbers so I hope its correct 
+
+4. Comments (e.g., what were the challenges, how to make this assignment more interesting etc.):
+
+challenges was mostly with the merging in the C file and the numbers i got were suprising 
+
+5. Program output: (if you print anything on the screen, then copy/paste it here. don't copy/paste output files here)
+
+fdp653@fox01:~/working/cs3733/assign02$ make
+gcc -Wall -pthread -o multithreaded_sorting multithreaded_sorting.c
+javac MultithreadedSortingApplication.java
+./multithreaded_sorting 10
+Merged array and computed overall average: 440.872575
+Multithreaded sorting and merging took 0.000176 seconds.
+Single-threaded sorting took 0.000001 seconds. Average: 648.730699
+./multithreaded_sorting 1000
+Merged array and computed overall average: 506.434642
+Multithreaded sorting and merging took 0.000390 seconds.
+Single-threaded sorting took 0.000781 seconds. Average: 512.977648
+./multithreaded_sorting 5000
+Merged array and computed overall average: 511.567394
+Multithreaded sorting and merging took 0.008776 seconds.
+Single-threaded sorting took 0.019088 seconds. Average: 501.151126
+./multithreaded_sorting 10000
+Merged array and computed overall average: 506.359260
+Multithreaded sorting and merging took 0.037754 seconds.
+Single-threaded sorting took 0.078475 seconds. Average: 498.872914
+java MultithreadedSortingApplication 10
+Multithreaded sorting and merging took 0.002370 seconds.
+Single-threaded sorting took 0.000004 seconds. Average: 398.48
+java MultithreadedSortingApplication 1000
+Multithreaded sorting and merging took 0.001968 seconds.
+Single-threaded sorting took 0.000021 seconds. Average: 506.31
+java MultithreadedSortingApplication 5000
+Multithreaded sorting and merging took 0.001855 seconds.
+Single-threaded sorting took 0.000113 seconds. Average: 497.54
+java MultithreadedSortingApplication 10000
+Multithreaded sorting and merging took 0.002315 seconds.
+Single-threaded sorting took 0.000015 seconds. Average: 505.36
+
+
+
+C Program
+Array Size (N)	Multithreaded Time (s)	Single-threaded Time (s)	Multithreaded Average	Single-threaded Average
+10	                0.000176	              0.000001	                  440.87	            648.73
+1000	              0.000390	              0.000781	                  506.43	            512.98
+5000	              0.008776	              0.019088	                  511.57	            501.15
+10000	              0.037754	              0.078475	                  506.36	            498.87
+
+Java Program
+Array Size (N)	Multithreaded Time (s)	Single-threaded Time (s)	Average
+10	                0.002370	              0.000004	            398.48
+1000	              0.001968	              0.000021	            506.31
+5000	              0.001855	              0.000113	            497.54
+10000	              0.002315	              0.000015	            505.36
+
+
+Comment on your results under two threads vs. no threading or using different languages (C or Java).
+
+for large datasets muilti threading can be helpful compared to single with noticeable diffrences in execution time between C and Java.
