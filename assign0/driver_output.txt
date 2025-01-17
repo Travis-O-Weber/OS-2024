@@ -1,0 +1,219 @@
+[?2004l
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+1
+Enter student ID: 1
+Enter student GPA: 1.0
+Enter student name: worst
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+1
+Enter student ID: 2.4  
+Enter student GPA: 4.0
+Enter student name: best
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+1
+Enter student ID: 3
+Enter student GPA: 3.0
+Enter student name: normal
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+4
+Enter the index of the student to print: 1
+Student at index 1: ID: 2, GPA: 4.00, Name: best
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+1
+Enter student ID: 4
+Enter student GPA: 2.0
+Enter student name: failing
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+5 1
+Enter student ID: 5
+Enter student GPA: 3.5
+Enter student name: great
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+1
+Enter student ID: 2.5   6
+Enter student GPA: 2.5
+Enter student name: stressed
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+6
+Min GPA: 1.00
+Average GPA: 2.67
+Max GPA: 4.00
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+5
+ID: 1, GPA: 1.00, Name: worst
+ID: 2, GPA: 4.00, Name: best
+ID: 3, GPA: 3.00, Name: normal
+ID: 4, GPA: 2.00, Name: failing
+ID: 5, GPA: 3.50, Name: great
+ID: 6, GPA: 2.50, Name: stressed
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+4
+Enter the index of the student to print: 3
+Student at index 3: ID: 4, GPA: 2.00, Name: failing
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+3
+Number of students in the linked list: 6
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+2
+Removed student: ID: 1, GPA: 1.00, Name: worst
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+5
+ID: 2, GPA: 4.00, Name: best
+ID: 3, GPA: 3.00, Name: normal
+ID: 4, GPA: 2.00, Name: failing
+ID: 5, GPA: 3.50, Name: great
+ID: 6, GPA: 2.50, Name: stressed
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+7
+Removed student with the highest GPA: ID: 2, GPA: 4.00, Name: best
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit
+5
+ID: 3, GPA: 3.00, Name: normal
+ID: 4, GPA: 2.00, Name: failing
+ID: 5, GPA: 3.50, Name: great
+ID: 6, GPA: 2.50, Name: stressed
+
+Enter your choice:
+1 - Create a new student cell and add it to the linked list
+2 - Remove the first student from the linked list
+3 - Print the number of students in the linked list
+4 - Print information of a student at a specific index
+5 - Print the list of all students in the linked list
+6 - Print the min, average, and max GPAs in the linked list
+7 - Remove the student with the highest GPA
+8 - Exit

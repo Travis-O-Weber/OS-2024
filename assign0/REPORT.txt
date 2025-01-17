@@ -1,0 +1,8 @@
+1. List all of the people that you have collaborated with on this assignment (discussing high-level ideas is OK, but never share implementation details or code). For each person indicate the level of collaboration (small, medium, large). Also write a few sentences describing what was discussed. Indicate whether you were mainly giving help or receiving help.
+none
+2. Do you think everything you did is correct? .....
+Yes if not please let me know as I was not able to test using the fox machines 
+3. If not, give a brief description of what is working and what progress was made on the part that is not working.
+Everything is working only not sure if it will work on the fox machines 
+4. Comments (e.g., what were the challenges, how to make this assignment more interesting etc.):
+there were a few challenges mostly with the vdi and some of the ssh stuff as for making things more intersesting idk at the end of the day work is work
