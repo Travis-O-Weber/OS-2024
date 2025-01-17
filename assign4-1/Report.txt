@@ -1,0 +1,10 @@
+1. List all of the people that you have collaborated with on this assignment. For each person indicate the level of collaboration (small, medium, large). none
+2. Do you think everything you did is correct? :) it copiles but I think the out put might be off somewhere 
+3. If not, give a brief description of what is working and what progress was made on the part that is not working. output I think is diffrent not sure where I went wrong
+4. Comments (e.g., what were the challenges, how to make this assignment more interesting etc.)  
+it was very hard and time conmsuming trying to read the output because it would just be weird gibberish
+
+Part1 MD5SUM:
+d41d8cd98f00b204e9800998ecf8427e  part1-output
+Part2 MD5SUM:
+d41d8cd98f00b204e9800998ecf8427e  part2-output
